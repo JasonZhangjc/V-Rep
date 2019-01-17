@@ -14,4 +14,4 @@ Required tools:
  
 To run the project:
  1. After the V-Rep is installed, double click the xxx.ttt.
- 2. Click "Simulation", then click "Start simulation"
+ 2. Click "Simulation", then click "Start simulation".
